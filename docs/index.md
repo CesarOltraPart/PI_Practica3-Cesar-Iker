@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# EcoRide
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## ¿Qué es EcoRide?
 
-## Commands
+## Objetivo principal
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Ventajas de la movilidad compartida
 
-## Project layout
+## Funcionalidades principales
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Más información
