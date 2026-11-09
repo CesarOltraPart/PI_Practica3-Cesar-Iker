@@ -50,13 +50,14 @@ El objetivo es mostrar el impacto positivo de la movilidad sostenible y concienc
 
 ## Resumen de funcionalidades
 
-| Funcionalidad | Descripción |
+| Funcionalidad | Descripción | Estado |
 |---|---|---|
-| Registro e inicio de sesión | Creación de cuentas y acceso de usuarios. |
-| Consulta de estaciones | Visualización de las estaciones disponibles. |
-| Consulta de bicicletas disponibles | Consulta de bicicletas en cada estación. |
-| Reservas de bicicletas | Reserva de bicicletas desde la aplicación. |
-| Historial de trayectos | Consulta de desplazamientos anteriores. |
-| Estimación del ahorro de CO₂ | Cálculo estimado del CO₂ evitado. |
+| Registro e inicio de sesión | Creación de cuentas y acceso de usuarios. | Prevista |
+| Consulta de estaciones | Visualización de las estaciones disponibles. | Prevista |
+| Consulta de bicicletas disponibles | Consulta de bicicletas en cada estación. | Prevista |
+| Reservas de bicicletas | Reserva de bicicletas desde la aplicación. | Prevista |
+| Historial de trayectos | Consulta de desplazamientos anteriores. | Prevista |
+| Estimación del ahorro de CO₂ | Cálculo estimado del CO₂ evitado. | Prevista |
+
 
 Todas estas funcionalidades forman parte de las características previstas para EcoRide. Su implementación permitirá ofrecer un servicio de bicicletas compartidas sencillo, accesible y respetuoso con el medio ambiente.

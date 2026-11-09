@@ -4,7 +4,15 @@
 
 La API REST de EcoRide permite la comunicación entre la aplicación móvil y el servidor. Utiliza el formato JSON para enviar y recibir información.
 
-## GET /api/stations
+## URL base
+
+La dirección base de la API es:
+
+`https://ecoride/api`
+
+Todas las rutas se construyen a partir de esta dirección.
+
+## GET https://ecoride/api/stations
 
 **Finalidad:** Obtener la lista de estaciones disponibles.
 
@@ -29,7 +37,7 @@ La API REST de EcoRide permite la comunicación entre la aplicación móvil y el
 }
 ```
 
-## GET /api/bikes
+## GET https://ecoride/api/bikes
 
 **Finalidad:** Consultar las bicicletas disponibles.
 
@@ -52,7 +60,7 @@ La API REST de EcoRide permite la comunicación entre la aplicación móvil y el
 }
 ```
 
-## POST /api/reservations
+## POST https://ecoride/api/reservations
 
 **Finalidad:** Crear una reserva de bicicleta.
 
@@ -77,7 +85,7 @@ La API REST de EcoRide permite la comunicación entre la aplicación móvil y el
 }
 ```
 
-## GET /api/users/{id}
+## GET https://ecoride/api/users/{id}
 
 **Finalidad:** Consultar la información de un usuario mediante su identificador.
 
