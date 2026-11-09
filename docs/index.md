@@ -1,4 +1,4 @@
-# EcoRide - Bicicletas compartides
+# EcoRide - Bicicletas compartidas
 
 EcoRide es una aplicación de bicicletas compartidas que permite a los usuarios desplazarse por la ciudad de una manera cómoda, económica y sostenible. Con esta aplicación se pueden consultar las estaciones disponibles, ver qué bicicletas hay, reservarlas y revisar los trayectos realizados. Nuestro objetivo es facilitar los desplazamientos urbanos y reducir el uso de vehículos contaminantes. EcoRide apuesta por una movilidad más respetuosa con el medio ambiente y accesible para todos, ayudando a construir ciudades más limpias y saludables.
 
