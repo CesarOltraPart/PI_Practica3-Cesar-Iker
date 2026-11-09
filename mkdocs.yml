@@ -2,6 +2,23 @@ site_name: EcoRide · Documentación
 
 theme:
   name: material
+  palette:
+    # Modo claro
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+
+    # Modo oscuro
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+
+plugins:
+  - search
 
 nav:
   - Inicio: index.md
@@ -10,3 +27,6 @@ nav:
   - Arquitectura: arquitectura.md
   - API: api.md
   - Preguntas frecuentes: faq.md
+
+extra_css:
+  - stylesheets/extra.css

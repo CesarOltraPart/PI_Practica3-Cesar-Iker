@@ -1,0 +1,32 @@
+h1 {
+    background: linear-gradient(
+        90deg,
+        #06832d,
+        #16a34a,
+        #84cc16
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900 !important;
+}
+
+h2 {
+    color: #15803d !important;
+    font-weight: 800 !important;
+}
+
+[data-md-color-scheme="slate"] h1 {
+    background: linear-gradient(
+        90deg,
+        #84cc16,
+        #86efac,
+        #16a34a
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900 !important;
+}
+
+[data-md-color-scheme="slate"] h2 {
+    color: #86efac !important;
+}
