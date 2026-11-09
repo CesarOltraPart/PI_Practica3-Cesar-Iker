@@ -1,36 +1,21 @@
-# Preguntas frecuentes (FAQ)
+# Preguntas frecuentes
 
-En esta sección encontrarás respuestas a las dudas más habituales sobre EcoRide y su funcionamiento.
+## ¿Qué es EcoRide?
 
-## 1. ¿Qué es EcoRide?
+EcoRide es una aplicación de bicicletas compartidas que permite desplazarse por la ciudad de una manera cómoda, económica y sostenible.
 
-EcoRide es una aplicación de bicicletas compartidas que permite a los usuarios consultar estaciones, comprobar la disponibilidad de bicicletas y realizar reservas desde el móvil.
+## ¿Cómo puedo registrarme en EcoRide?
 
-## 2. ¿Cómo puedo registrarme en EcoRide?
+Para utilizar la aplicación, primero debes crear una cuenta introduciendo tus datos personales. Después podrás iniciar sesión y acceder a sus funcionalidades.
 
-Para utilizar la aplicación, el usuario debe crear una cuenta proporcionando sus datos personales, como nombre, correo electrónico y contraseña. Después podrá iniciar sesión.
+## ¿Cómo puedo saber dónde hay bicicletas disponibles?
 
-## 3. ¿Cómo puedo reservar una bicicleta?
+Desde la aplicación puedes consultar las estaciones de la ciudad y comprobar cuántas bicicletas hay disponibles en cada una.
 
-El usuario debe consultar las estaciones disponibles, seleccionar una bicicleta y realizar la reserva desde la aplicación móvil.
+## ¿Cómo puedo reservar una bicicleta?
 
-## 4. ¿Puedo consultar mis trayectos anteriores?
+Debes acceder a la aplicación, seleccionar una estación con bicicletas disponibles y realizar la reserva. Esta quedará asociada a tu usuario.
 
-Sí. EcoRide dispone de un historial de trayectos donde los usuarios pueden consultar sus desplazamientos anteriores.
+## ¿Puedo consultar mis trayectos anteriores?
 
-## 5. ¿EcoRide ayuda al medio ambiente?
-
-Sí. El uso de bicicletas compartidas reduce la dependencia de vehículos contaminantes y contribuye a disminuir las emisiones de CO₂.
-
-## 6. ¿Qué tecnologías utiliza EcoRide?
-
-EcoRide utiliza las siguientes tecnologías:
-
-- **Flutter:** desarrollo de la aplicación móvil.
-- **Java y Spring Boot:** desarrollo del servidor.
-- **PostgreSQL:** almacenamiento de datos.
-- **API REST y JSON:** comunicación entre la aplicación y el servidor.
-
-## 7. ¿Necesito conexión a Internet?
-
-Sí. La aplicación necesita conectarse al servidor para consultar estaciones, comprobar bicicletas disponibles y gestionar reservas.
+Sí. EcoRide dispone de un historial donde puedes consultar tus desplazamientos anteriores, incluyendo la fecha y las estaciones de origen y destino.
